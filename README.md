@@ -1,0 +1,7 @@
+- [NB1: Getting Started with Python](getting_started_with_python_complete.ipynb)  
+- [NB2: Python Data Types](python_data_types.ipynb)  
+- [NB3: Python Indentation](python_indentation.ipynb)  
+- [NB4: Python Comments and Docstrings](python_comments_and_docstrings.ipynb)  
+- [NB5: Python Variable Scope](python_variable_scope.ipynb)  
+- [NB6: Python Mathematical Operators](python_mathematical_operators%20(1).ipynb)  
+- [NB7: Python Conditionals](python_conditionals.ipynb)  
