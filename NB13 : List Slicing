@@ -1,4 +1,4 @@
-# 📌 Mastering List Slicing in Python
+# 📌  List Slicing in Python
 
 ## 📝 Introduction
 List slicing is a powerful feature in Python that allows you to extract specific portions of a list efficiently. Whether you need to retrieve a sublist, reverse a list, or step through elements selectively, slicing provides an elegant solution.
