@@ -1,4 +1,4 @@
-# 🚀 Mastering List Comprehensions in Python
+# 🚀  List Comprehensions in Python
 
 ## 📌 Introduction
 List comprehensions are a **concise and efficient** way to create lists in Python. They provide a more readable and expressive way to generate lists compared to traditional loops. In this guide, we will explore various use cases of list comprehensions with **clear explanations** and **real-world examples**.
