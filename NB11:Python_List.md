@@ -1,4 +1,4 @@
-# 📌 Mastering Python Lists: Methods, Operations & Best Practices  
+# 📌  Python Lists: Methods, Operations & Best Practices  
 
 Lists in Python are one of the most versatile and commonly used data structures. They allow you to store and manipulate collections of elements efficiently. In this guide, we’ll explore the power of lists, including how to create, modify, and use them effectively.  
 
